@@ -1,0 +1,7 @@
+body{
+	/*background: rgb(0,36,9);*/
+	background:linear-gradient(to left, rgb(255, 255, 128), rgb(255, 0, 128));
+	font-family: courier;
+	font-weight: bold;
+}
+
